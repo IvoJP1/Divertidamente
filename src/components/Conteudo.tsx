@@ -1,5 +1,5 @@
 export const Conteudo = () => {
 	return (
-			<><p id="descricao"> Subtítulo / descrição </p><br/></>
+			<><p id="descricao"> Além desses "divertidamentes" também existe um complexo funcionamento estrutural baseado em um prédio, mas essa parte fica para a próxima.</p><br/></>
         );
 }
